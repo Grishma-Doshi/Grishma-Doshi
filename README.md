@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Grishma-Doshi
 - 👀 I’m interested in Data Analytics and Business Intelligence
 - 📫 How to reach me grishma2799@gmail.com
-- ⚡ Fun fact: Solving data mysteries now & then
+- ⚡ Fun fact: I make sense of your data chaos.
 
 **Skills:**
  * Python
